@@ -1,4 +1,4 @@
-## Funcionamento e Documentação do projeto
+# Funcionamento e Documentação do projeto "Gestão Horizonte"
 
  Qual será o nome do projeto e a situação problema que ele busca resolver?
 
